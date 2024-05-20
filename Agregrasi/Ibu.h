@@ -4,5 +4,6 @@
 #include <vector>
 
 class Ibu {
+public:
 
 };

@@ -28,4 +28,5 @@ public:
 	~Dokter() {
 		cout << "Dokter \"" << nama << "\" tidak ada\n";
 	}
+
 };

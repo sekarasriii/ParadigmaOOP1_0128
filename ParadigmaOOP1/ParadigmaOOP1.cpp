@@ -2,7 +2,10 @@
 #include <string>
 using namespace std;
 
-class mahasiswa {
+class Mahasiswa {
 
-
+private:
+	const int id;
+	string nama;
+	float nilai;
 };

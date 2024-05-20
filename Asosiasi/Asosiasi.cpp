@@ -21,5 +21,11 @@ public:
 class Dokter {
 public:
 	string nama;
-
+	vector<Pasien*> daftar_pasien;
+	Dokter(string pNama) :nama(pNama) {
+		cout << "Dokter\"" << nama << "\" ada\n";
+	}
+	~Dokter() {
+		cout << "Dokter \"" << nama << "\" tidak ada\n";
+	}
 };

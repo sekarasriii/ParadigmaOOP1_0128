@@ -22,4 +22,5 @@ public:
 	void tambahAnak(Anak*);
 
 	void cetakAnak();
+
 };

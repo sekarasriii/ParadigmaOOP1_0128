@@ -23,5 +23,8 @@
     <ClInclude Include="KomposisiJantung.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="KomposisiManusia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

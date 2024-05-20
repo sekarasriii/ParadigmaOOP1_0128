@@ -17,5 +17,6 @@ public:
 	~Manusia() {
 		cout << name << "mati\n";
 	}
+
 };
 #endif

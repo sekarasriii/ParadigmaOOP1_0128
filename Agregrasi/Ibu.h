@@ -18,6 +18,7 @@ public:
 	~Ibu() {
 		cout << "Ibu\"" << nama << "\" tidak ada\n";
 	}
+
 	void tambahAnak(Anak*);
 	void cetakAnak();
 };

@@ -7,5 +7,6 @@ using namespace std;
 #endif
 
 class jantung {
+public:
 
 };

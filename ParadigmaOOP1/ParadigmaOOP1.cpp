@@ -6,5 +6,6 @@ class Mahasiswa {
 
 private:
 	const int id;
-	
+	string nama;
+
 };

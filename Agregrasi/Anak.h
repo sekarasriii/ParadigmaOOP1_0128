@@ -6,13 +6,13 @@
 #include <string>
 using namespace std;
 
-class anak {
+class Anak {
 public:
 	string nama;
-	anak(string pNama) : nama(pNama) {
+	Anak(string pNama) : nama(pNama) {
 		cout << "Anak \"" << nama << "\" ada\n";
 	}
-	~anak() {
+	~Anak() {
 		cout << "Anak \"" << nama << "\" tidak ada\n";
 	}
 };

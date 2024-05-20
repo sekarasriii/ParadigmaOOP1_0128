@@ -6,4 +6,5 @@ class Dokter;
 class Pasien { //Asosiasi
 public:
 
+
 };
